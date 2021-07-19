@@ -56,6 +56,5 @@ from sklearn.feature_extraction.text
 
 ```
 skfold = StratifiedKFold(n_splits=10, random_state=100)
-model = logreg
 results_model = cross_val_score(model, train_vectors, y_train, cv=skfold)
 ```
