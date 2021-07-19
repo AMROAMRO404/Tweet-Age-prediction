@@ -1,7 +1,7 @@
 # Tweet age predection using Machine Learning
 
 - This project is for prediction user's age based on his tweets.
-- Dataset availabel [here](https://drive.google.com/drive/folders/11_xqitTHNq0q4_shbMJkBsetF1bylTj9?usp=sharing)
+- Dataset available [here](https://drive.google.com/drive/folders/11_xqitTHNq0q4_shbMJkBsetF1bylTj9?usp=sharing)
 
 ## **Data preprocessing**:
 
